@@ -77,24 +77,6 @@ Check out my GitHub for my latest projects and contributions!
 
 ---
 
-## 💼 Featured Projects
-
-<div align="center">
-
-### 🎯 Project Showcase
-
-| Project Name | Description | Repository |
-|---|---|---|
-| **📱 [Project 1 Name]** | Brief description of your first project goes here. Mention the key technologies and what problem it solves. | [View Repo](https://github.com/MaseDev33/project-1) |
-| **🌐 [Project 2 Name]** | Brief description of your second project goes here. Highlight the main features and learning outcomes. | [View Repo](https://github.com/MaseDev33/project-2) |
-| **🚀 [Project 3 Name]** | Brief description of your third project goes here. Emphasize the impact and technologies used. | [View Repo](https://github.com/MaseDev33/project-3) |
-
-<!-- Update the placeholders above with your actual project names, descriptions, and links -->
-
-</div>
-
----
-
 ## 🎯 2026 Goals
 
 - ✅ Build **more real-world projects** that solve actual problems
