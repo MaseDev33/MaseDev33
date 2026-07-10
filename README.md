@@ -63,16 +63,16 @@ I'm passionate about programming and continuously learning new technologies. I l
 
 **📈 GitHub Stats**
 
-![Mason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaseDev33&show_icons=true&theme=tokyonight&hide_border=false)
+Check out my GitHub for my latest projects and contributions!
 
-**💻 Top Languages**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaseDev33&theme=tokyonight&hide_border=false&layout=compact)
+**Languages & Tools I Use:**
+- Python, JavaScript, HTML5, CSS3
+- Git & GitHub for version control
+- VS Code as my primary editor
 
 **🔥 GitHub Streak**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaseDev33&theme=tokyonight&hide_border=false)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaseDev33&theme=tokyonight)](https://github.com/MaseDev33)
 </div>
 
 ---
