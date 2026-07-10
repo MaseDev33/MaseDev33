@@ -1,0 +1,156 @@
+# 👋 Hi, I'm Mason!
+
+<div align="center">
+  
+### 🎓 Grade 11 Student | 15-Year-Old Developer | Tech Enthusiast
+
+I'm passionate about programming and continuously learning new technologies. I love building projects, solving programming challenges, and improving my coding skills every single day!
+
+[🌐 Portfolio](#) • [📧 Email](#) • [💼 LinkedIn](#) • [🐙 GitHub](#)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 👨‍💻 **15-year-old developer** with a passion for coding
+- 🎓 Currently in **Grade 11** high school
+- 💡 Enthusiastic about **programming and problem-solving**
+- 🌱 Continuously learning **new technologies and frameworks**
+- 🎯 Focused on building **real-world projects** that make an impact
+- 📚 Committed to **improving my coding skills** every day
+- 🤝 Excited to **contribute to open-source** and collaborate with others
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+<table align="center">
+  <tr>
+    <td>🐍 Python</td>
+    <td>JavaScript</td>
+    <td>💻 Web Development</td>
+  </tr>
+  <tr>
+    <td>Git & GitHub</td>
+    <td>🔌 APIs</td>
+    <td>⚙️ Backend Development</td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+### GitHub Overview
+
+![Mason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&theme=tokyonight&show_icons=true&hide_border=true)
+
+<!-- Replace <YOUR_USERNAME> with your actual GitHub username -->
+
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&theme=tokyonight&hide_border=true&layout=compact)
+
+<!-- Replace <YOUR_USERNAME> with your actual GitHub username -->
+
+### GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=<YOUR_USERNAME>&theme=tokyonight&hide_border=true)
+
+<!-- Replace <YOUR_USERNAME> with your actual GitHub username -->
+
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+
+### 🎯 Project Showcase
+
+| Project Name | Description | Repository |
+|---|---|---|
+| **📱 [Project 1 Name]** | Brief description of your first project goes here. Mention the key technologies and what problem it solves. | [View Repo](https://github.com/<YOUR_USERNAME>/project-1) |
+| **🌐 [Project 2 Name]** | Brief description of your second project goes here. Highlight the main features and learning outcomes. | [View Repo](https://github.com/<YOUR_USERNAME>/project-2) |
+| **🚀 [Project 3 Name]** | Brief description of your third project goes here. Emphasize the impact and technologies used. | [View Repo](https://github.com/<YOUR_USERNAME>/project-3) |
+
+<!-- Update the placeholders above with your actual project names, descriptions, and links -->
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+- ✅ Build **more real-world projects** that solve actual problems
+- ✅ Master **backend development** and databases
+- ✅ Become proficient in **JavaScript** and modern frameworks
+- ✅ **Contribute to open-source** projects and help the community
+- ✅ Learn **new programming languages** (Go, Rust, or Java)
+- ✅ **Deploy projects** to production environments
+- ✅ Develop **strong problem-solving skills** through competitive programming
+
+---
+
+## 🎮 Fun Facts
+
+- 🎓 I'm a Grade 11 student balancing school and coding
+- 💻 I **love coding** and spend hours exploring new technologies
+- 🧩 I enjoy **solving programming challenges** and debugging problems
+- 🚀 I'm **always looking to improve** and push my skills further
+- 📖 I believe in **continuous learning** and staying curious
+- 🤓 Coding isn't just a skill for me—it's a **passion!**
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/<YOUR_USERNAME>)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+<!-- 
+UPDATE THE LINKS ABOVE:
+- Replace <YOUR_USERNAME> with your GitHub username
+- Replace https://yourportfolio.com with your actual portfolio URL
+- Replace your.email@example.com with your actual email
+-->
+
+</div>
+
+---
+
+<div align="center">
+
+### 💪 Keep Learning, Keep Growing!
+
+*Last updated: 2026* 
+
+![Profile Views](https://komarev.com/ghpvc/?username=<YOUR_USERNAME>&color=blueviolet)
+
+<!-- Replace <YOUR_USERNAME> with your GitHub username for the profile views counter -->
+
+</div>
