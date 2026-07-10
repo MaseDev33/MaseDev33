@@ -61,17 +61,17 @@ I'm passionate about programming and continuously learning new technologies. I l
 
 <div align="center">
 
-### GitHub Overview
+**📈 GitHub Stats**
 
-![Mason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaseDev33&theme=tokyonight&show_icons=true&hide_border=true)
+![Mason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaseDev33&show_icons=true&theme=tokyonight&hide_border=false)
 
-### Top Languages
+**💻 Top Languages**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaseDev33&theme=tokyonight&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaseDev33&theme=tokyonight&hide_border=false&layout=compact)
 
-### GitHub Streak
+**🔥 GitHub Streak**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaseDev33&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaseDev33&theme=tokyonight&hide_border=false)
 
 </div>
 
